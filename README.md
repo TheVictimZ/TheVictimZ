@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheVictimZ
-- 👀 I’m interested in Android / IOS Development And Web FrontEnd or BackEnd
+- 👀 I’m interested in Android / IOS Development And Web ( Fullstack Dev )
 - 🌱 I’m currently learning Hacker
 - 💞️ I’m looking to collaborate on Anyone Else
 - 📫 How to reach me Just DM On Instagram @chel_hbs
