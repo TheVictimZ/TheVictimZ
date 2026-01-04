@@ -1,10 +1,37 @@
-- 👋 Hi, I’m @TheVictimZ
-- 👀 I’m interested in Android / IOS Development And Web ( Fullstack Dev )
-- 🌱 I’m currently learning Hacker
-- 💞️ I’m looking to collaborate on Anyone Else
-- 📫 How to reach me Just DM On Instagram @chel_hbs
+## 👋 Hi, I’m @TheVictimZ
 
-<!---
-TheVictimZ/TheVictimZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍💻 Tech enthusiast who loves building, breaking, and learning things.
+
+### 👀 Interests
+- Android Development  
+- iOS Development  
+- Web Development (Full Stack)  
+- Cyber Security & Ethical Hacking  
+
+### 🌱 Currently Learning
+- Ethical Hacking  
+- Cyber Security Fundamentals  
+- Advanced Web & Mobile Development  
+
+### 🧑‍💼 Roles & Skills
+- 🎨 UI / UX Designer  
+- 🌐 Full Stack Developer  
+- 📱 Android Developer  
+- 🤖 Machine Learning Engineer  
+- 🛡️ Ethical Hacker (Learning)  
+- 🧠 AI Prompt Master  
+- 📊 Data Analyst  
+- ⚡ Electronics Engineer  
+- 🌍 IoT Engineer  
+
+### 💞️ Looking to Collaborate On
+- Open Source Projects  
+- Web & Mobile Applications  
+- AI, IoT, and Security-related Projects  
+
+### 📫 How to Reach Me
+- 📸 Instagram: **[@zxcv_brill](https://instagram.com/zxcv_brill)**  
+
+---
+
+✨ *This repository is special because its `README.md` appears on my GitHub profile.*
