@@ -30,7 +30,7 @@
 - AI, IoT, and Security-related Projects  
 
 ### 📫 How to Reach Me
-- 📸 Instagram: **[@zxcv_brill](https://instagram.com/zxcv_brill)**  
+- 📸 Instagram: **[@zxcv_brill](https://instagram.com/zxcv_imchel)**  
 
 ---
 
