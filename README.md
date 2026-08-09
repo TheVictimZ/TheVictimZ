@@ -24,7 +24,6 @@
     <img src="https://www.gitskins.com/api/section/projects?username=TheVictimZ&theme=github-dark" alt="TheVictimZ projects section" />
   </picture>
 </p>
-Contact and social links will appear here.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=TheVictimZ&theme=github-dark&mode=light" />
