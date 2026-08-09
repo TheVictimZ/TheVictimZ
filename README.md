@@ -1,37 +1,43 @@
-## 👋 Hi, I’m @TheVictimZ
+# TheVictimZ
 
-👨‍💻 Tech enthusiast who loves building, breaking, and learning things.
+> Memorable developer positioning.
 
-### 👀 Interests
-- Android Development  
-- iOS Development  
-- Web Development (Full Stack)  
-- Cyber Security & Ethical Hacking  
+**Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
 
-### 🌱 Currently Learning
-- Ethical Hacking  
-- Cyber Security Fundamentals  
-- Advanced Web & Mobile Development  
+## Header
+> Editing this section in the inspector.
+Hi, I'm **TheVictimZ**. This README is tuned for **personal brand** with a GitHub visual system.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=TheVictimZ&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=TheVictimZ&theme=github-dark" alt="TheVictimZ hero section" />
+  </picture>
+</p>
+## Heatmap
+Animated year-long contribution calendar.
+## GitHub Stats
+GitSkins stat widgets will use the **GitHub** theme.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=TheVictimZ&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=TheVictimZ&theme=github-dark" alt="TheVictimZ stats section" />
+  </picture>
+</p>
+## Projects
+Highlights repositories as proof of work.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=TheVictimZ&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=TheVictimZ&theme=github-dark" alt="TheVictimZ projects section" />
+  </picture>
+</p>
+## Connect
+Contact and social links will appear here.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=TheVictimZ&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=TheVictimZ&theme=github-dark" alt="TheVictimZ social section" />
+  </picture>
+</p>
 
-### 🧑‍💼 Roles & Skills
-- 🎨 UI / UX Designer  
-- 🌐 Full Stack Developer  
-- 📱 Android Developer  
-- 🤖 Machine Learning Engineer  
-- 🛡️ Ethical Hacker (Learning)  
-- 🧠 AI Prompt Master  
-- 📊 Data Analyst  
-- ⚡ Electronics Engineer  
-- 🌍 IoT Engineer  
-
-### 💞️ Looking to Collaborate On
-- Open Source Projects  
-- Web & Mobile Applications  
-- AI, IoT, and Security-related Projects  
-
-### 📫 How to Reach Me
-- 📸 Instagram: **[@zxcv_brill](https://instagram.com/zxcv_imchel)**  
-
----
-
-✨ *This repository is special because its `README.md` appears on my GitHub profile.*
+<!-- Sections: Header, Heatmap, GitHub Stats, Projects, Connect -->
